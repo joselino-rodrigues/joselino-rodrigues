@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @joselino-rodrigues
-- ⚡ LinkedIn: https://www.linkedin.com/in/jrjoselino/
+- ⚡ LinkedIn: https://www.linkedin.com/in/jrjoselino/](https://www.linkedin.com/in/joselino-rodrigues-md
 - 👀 I'm interested in Health Informatics
 - 🌱 I'm currently learning SQL/PHP/JS/HTML/CSS
 - 💞️ I'm looking to collaborate on healthcare IT projects
