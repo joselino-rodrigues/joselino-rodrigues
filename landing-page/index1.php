@@ -21,7 +21,7 @@
             <li class="nav-item"><a class="nav-link" href="#formacao">Formação</a></li>
             <li class="nav-item"><a class="nav-link" href="#titulos">Títulos</a></li>
             <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
-            <li class="nav-item"><a class="btn btn-primary btn-sm" href="mailto:joselino.rodrigues@unifesp.br?subject=Contato%20-%20Dr.%20Joselino%20Rodrigues">Agendar conversa</a></li>
+            <li class="nav-item"><a class="btn btn-primary btn-sm" href="mailto:joselino.rodrigues@unifesp.br?subject=Agendamento%20de%20consulta%20m%C3%A9dica%20-%20Dr.%20Joselino%20Rodrigues&body=Ol%C3%A1%20Dr.%20Joselino%2C%0A%0AGostaria%20de%20agendar%20uma%20consulta.%0A%0ANome%3A%20%0ATelefone%2FWhatsApp%3A%20%0APrefer%C3%AAncia%3A%20Telemedicina%20ou%20Presencial%0AMotivo%20da%20consulta%3A%20%0AMelhor%20data%2Fhor%C3%A1rio%3A%20%0A%0AObrigado(a)!">Agendar consulta</a></li>
           </ul>
         </div>
       </nav>
@@ -43,23 +43,24 @@
                 <span class="badge rounded-pill text-bg-light border">Gestão da Informação</span>
               </div>
               <div class="d-flex flex-wrap gap-2">
-                <a class="btn btn-primary" href="#contato">Fale comigo</a>
+                <a class="btn btn-primary" href="mailto:joselino.rodrigues@unifesp.br?subject=Agendamento%20de%20consulta%20m%C3%A9dica%20-%20Dr.%20Joselino%20Rodrigues&body=Ol%C3%A1%20Dr.%20Joselino%2C%0A%0AGostaria%20de%20agendar%20uma%20consulta.%0A%0ANome%3A%20%0ATelefone%2FWhatsApp%3A%20%0APrefer%C3%AAncia%3A%20Telemedicina%20ou%20Presencial%0AMotivo%20da%20consulta%3A%20%0AMelhor%20data%2Fhor%C3%A1rio%3A%20%0A%0AObrigado(a)!">Agendar consulta</a>
                 <a class="btn btn-outline-secondary" target="_blank" rel="noopener" href="https://www.linkedin.com/in/joselino-rodrigues-md">LinkedIn</a>
                 <a class="btn btn-outline-secondary" target="_blank" rel="noopener" href="https://orcid.org/0009-0001-9872-7544">ORCID</a>
               </div>
             </div>
             <div class="col-lg-5">
               <div class="p-4 p-lg-5 bg-body-tertiary rounded-4 border shadow-sm">
-                <h2 class="h5 mb-3">Projetos, consultoria e colaboração</h2>
+                <h2 class="h5 mb-3">Consultas médicas</h2>
                 <ul class="mb-4">
-                  <li>Interoperabilidade e integração de sistemas (HL7/FHIR)</li>
-                  <li>Modelagem de dados clínicos e processos</li>
-                  <li>Desenvolvimento web e suporte a equipes</li>
+                  <li>Telemedicina (Brasil) conforme normas do CFM</li>
+                  <li>Atendimento presencial (locais mediante disponibilidade)</li>
+                  <li>Foco em cuidado seguro, humano e resolutivo</li>
                 </ul>
                 <div class="d-grid gap-2">
-                  <a class="btn btn-primary" href="mailto:joselino.rodrigues@unifesp.br?subject=Projeto%20ou%20Parceria%20em%20Sa%C3%BAde%20Digital">Agendar conversa por e‑mail</a>
-                  <a class="btn btn-outline-secondary" target="_blank" rel="noopener" href="https://www.linkedin.com/in/joselino-rodrigues-md">Conectar no LinkedIn</a>
+                  <a class="btn btn-primary" href="mailto:joselino.rodrigues@unifesp.br?subject=Agendar%20consulta%20por%20Telemedicina%20-%20Dr.%20Joselino%20Rodrigues&body=Ol%C3%A1%20Dr.%20Joselino%2C%0A%0AGostaria%20de%20agendar%20uma%20consulta%20por%20Telemedicina.%0A%0ANome%3A%20%0ATelefone%2FWhatsApp%3A%20%0AMotivo%20da%20consulta%3A%20%0AMelhor%20data%2Fhor%C3%A1rio%3A%20%0A%0AObrigado(a)!">Agendar Telemedicina</a>
+                  <a class="btn btn-outline-secondary" href="mailto:joselino.rodrigues@unifesp.br?subject=Agendar%20consulta%20Presencial%20-%20Dr.%20Joselino%20Rodrigues&body=Ol%C3%A1%20Dr.%20Joselino%2C%0A%0AGostaria%20de%20agendar%20uma%20consulta%20presencial.%0A%0ANome%3A%20%0ATelefone%2FWhatsApp%3A%20%0ALocalidade%3A%20%0AMotivo%20da%20consulta%3A%20%0AMelhor%20data%2Fhor%C3%A1rio%3A%20%0A%0AObrigado(a)!">Agendar Presencial</a>
                 </div>
+                <p class="text-secondary small mb-0 mt-3">Conversas profissionais (projetos/consultoria): por e‑mail.</p>
               </div>
             </div>
           </div>
@@ -182,7 +183,8 @@
             <li class="mb-2">🔗 <a class="link-primary" target="_blank" rel="noopener" href="https://www.linkedin.com/in/joselino-rodrigues-md">LinkedIn</a></li>
             <li class="mb-2">🔗 <a class="link-primary" target="_blank" rel="noopener" href="https://orcid.org/0009-0001-9872-7544">ORCID</a></li>
           </ul>
-          <p class="text-secondary small mb-0">Este site tem caráter informativo e não substitui a avaliação clínica individualizada.</p>
+          <p class="text-secondary small mb-1">Este site tem caráter informativo e não substitui a avaliação clínica individualizada.</p>
+          <p class="text-secondary small mb-0">Conversas profissionais (projetos/consultoria): entre em contato por e‑mail.</p>
         </div>
       </section>
     </main>
@@ -231,4 +233,3 @@
     </script>
   </body>
   </html>
-
