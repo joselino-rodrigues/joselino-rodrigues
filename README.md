@@ -32,7 +32,7 @@ Se o seu projeto envolve tecnologia aplicada à medicina, terei prazer em colabo
 
 📫 **Como entrar em contato:**  
 ✉️ [joselino.rodrigues@unifesp.br](mailto:joselino.rodrigues@unifesp.br)  
-🔗 [LinkedIn](https://www.linkedin.com/in/joselino-rodrigues-md)
+🔗 [LinkedIn](https://www.linkedin.com/in/joselino-rodrigues-md)  
 🔗 [ORCID] (https://orcid.org/0009-0001-9872-7544)
 
 ---
