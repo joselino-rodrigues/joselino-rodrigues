@@ -1,7 +1,5 @@
 ## 👋 Olá! Joselino aqui
 
-<iframe src="https://github.com/sponsors/joselino-rodrigues/button" title="Sponsor joselino-rodrigues" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 ⚕️ **Médico e entusiasta de Tecnologia em Saúde**  
 Atualmente, dedico-me, além da Medicina, ao estudo e à aplicação prática da **Informática em Saúde**, buscando integrar tecnologia, ciência de dados e medicina para aprimorar processos assistenciais e de gestão em saúde.  
 
