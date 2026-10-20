@@ -1,5 +1,9 @@
 ## 👋 Olá! Joselino aqui
 
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/joselino-rodrigues)
+
+
 ⚕️ **Médico e entusiasta de Tecnologia em Saúde**  
 Atualmente, dedico-me, além da Medicina, ao estudo e à aplicação prática da **Informática em Saúde**, buscando integrar tecnologia, ciência de dados e medicina para aprimorar processos assistenciais e de gestão em saúde.  
 
